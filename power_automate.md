@@ -85,19 +85,19 @@
 |  Save    | --> |  Test   | --> |  Edit  |
 +----------+     +---------+     +--------+
 ```
-**Пращане на мейл** 
+## Пращане на мейл** 
 
 ![img.png](img.png)
 
 
-**Formatting Date** 
+## Formatting Date 
 
 ![img_1.png](img_1.png)
 
 ![img_2.png](img_2.png)
 
 
-**Conditions**
+## Conditions
 
 ![img_3.png](img_3.png)
 
